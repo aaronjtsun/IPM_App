@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  IPM.cpp
+c:\users\aaron\documents\visual studio 2017\projects\ipm\ipm\ipm.cpp(98): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\documents\visual studio 2017\projects\ipm\ipm\ipm.cpp(99): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  IPM_Calibration.cpp
+  Generating code
+  All 341 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  IPM.vcxproj -> C:\Users\aaron\Documents\Visual Studio 2017\Projects\IPM\x64\Release\IPM.exe
